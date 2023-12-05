@@ -1,0 +1,15 @@
+# config.toml
+
+# Configuración del título de la aplicación
+[server]
+headless = true
+enableCORS = false
+port = 8501
+
+# Configuración del tema de la aplicación
+[theme]
+primaryColor="#1F7C8F"
+backgroundColor="#F5F5F5"
+secondaryBackgroundColor="#E5E5E5"
+textColor="#262730"
+font="sans serif"
